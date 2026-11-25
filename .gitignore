@@ -1,0 +1,13 @@
+out/
+*.obj
+*.sys
+*.exe
+*.map
+*.pdb
+*.dmp
+*.pfx
+*.p12
+*.key
+*.log
+*credentials*
+*thumbprint*
